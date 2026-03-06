@@ -1,0 +1,94 @@
+---
+title: "PictureSpeak"
+toc: false
+---
+
+
+
+A glimpse into my work, collaborations, teaching moments, and field activities.
+
+---
+
+## Teaching R Workshops
+
+
+
+
+![](images/Kimachas_r_2025.jpeg){width=100%}
+
+*Meet the instructors: R training workshop for data managers and public health professionals (2025), held at KEMRI Kilifi Kenya .*
+
+
+::: {.column}
+![](images/r_2022.jpeg){width=100%}
+
+*Cohort One of DiscovR – the maiden training during the COVID period. I organized, facilitated, and learned a great deal from this experience.*
+
+::: {.columns}
+
+![](images/r_2022.jpeg){width=100%} 
+
+*Cohort 2 of DiscovR: A 4 day in interactive in person training .*
+
+![](images/r_2024.jpeg){width=100%}
+
+*R training workshop session with participants practicing data analysis (2024).*
+
+![](images/r_2025.jpeg){width=100%}
+
+*Interactive code_along cohort of 2025 at Kemri_Kilifi.*
+
+
+
+---
+
+## Field Work & Research Activities
+
+
+
+::: {.column}
+![](images/Turkana_Facility.jpeg){width=100%}
+
+*Malaria surveillance activities during field data collection in Turkana.*
+
+
+
+![](images/Kimachas_ASTMH_2.jpeg){width=100%}
+
+*Presenting malaria research findings at the ASTMH conference.*
+
+![](images/Astmh_Kimachas.jpeg){width=100%}
+
+*Presenting malaria research findings at the ASTMH conference with principal investigators and mentors.*
+
+
+
+
+
+![](images/Kimachas_CPHIA.jpeg){width=100%}
+
+*Presenting malaria research findings at the CPHIA Rwanda conference.*
+
+
+
+---
+
+## Training & Capacity Building
+
+
+
+![](images/team_training.jpg){width=100%}
+
+*Training field teams on digital data collection systems.*
+
+![](images/Testsmart_Nigeria.jpeg){width=100%}
+
+*Partnership collaboration with CHAI Nigeria for the TESTsmart project.*
+
+
+
+![](images/Genomics_data.jpeg){width=100%}
+
+*Hands-on data management training on malaria genomics in Kampala, Uganda, organized by the African Union.*
+
+

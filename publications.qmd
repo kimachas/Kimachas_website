@@ -1,0 +1,107 @@
+---
+title: "Publications"
+toc: false
+---
+
+
+## Research Profiles
+
+🔗 https://orcid.org/0009-0007-8487-9516 
+
+
+## Journal Articles
+
+### Do piperonyl butoxide long-lasting insecticide-treated nets provide additional protection against malaria infections compared with conventional nets?
+
+**Rascón-García K., Mangeni J., Lapp Z., _Kimachas E._, Abel L., Obala A., Prudhomme O’Meara W., Taylor S. (2026)**  
+*The American Journal of Tropical Medicine and Hygiene*  
+**Status:** Published
+
+🔗 https://pmc.ncbi.nlm.nih.gov/articles/PMC12781430/
+
+---
+
+### Relationship between malaria vector survival, infectivity, and insecticide-treated net use in western Kenya
+
+**Abel L., _Kimachas E._, Omollo E., Nalianya E., Chepkwony T., Kipkoech J., Amunga M., Wekesa A., Namae J., Kahindi S., Mangeni J., Lapp Z., Markwalter C., Taylor S., Obala A., Prudhomme O’Meara W. (2024)**  
+*Parasites & Vectors*  
+**Status:** Published
+
+🔗 https://doi.org/10.1186/s13071-024-06550-9
+
+---
+
+### A cluster-randomized trial of client- and provider-directed financial interventions to align incentives with appropriate case management in retail medicine outlets
+
+**Laktabai J., _Kimachas E._, Kipkoech J., Menya D., et al. (2024)**  
+*PLOS Global Public Health*  
+**Status:** Published
+
+🔗 https://doi.org/10.1371/journal.pgph.0002451
+
+---
+
+### Correction to: Incentivizing appropriate malaria case management in the private sector
+
+**Woolsey A.M., Simmons R.A., Woldeghebriel M., et al., _Kimachas E._ (2022)**  
+*Implementation Science*  
+**Status:** Published
+
+---
+
+### Incentivizing appropriate malaria case management in the private sector
+
+**Woolsey A.M., Simmons R.A., Woldeghebriel M., et al., _Kimachas E._ (2021)**  
+*Implementation Science*  
+**Status:** Published
+
+🔗 https://doi.org/10.1186/s13012-020-01077-w
+
+---
+
+## Preprints / Working Papers
+
+### A mixed-methods study of the scale-up and delivery of Seasonal Malaria Chemoprevention in pastoralist communities of northwest Kenya
+
+**Menya D., _Kimachas E._, Rotich B., Kafu C., Kipkoech J., Abel L., et al. (2026)**  
+*medRxiv*  
+**Status:** Preprint (not yet peer-reviewed)
+
+🔗 https://www.medrxiv.org/content/10.64898/2026.02.10.26346051v1
+
+---
+
+### Sickle-trait hemoglobin does not influence *Anopheles* biting rates
+
+**Markwalter C.F., _Kimachas E._, Kirwa E., Kipkoech J., Kahindi S., Abel L., Han Z.Y., Mangeni J.N., Obala A.A., Prudhomme O’Meara W., Taylor S.M. (2025)**  
+*medRxiv*  
+**Status:** Preprint
+
+🔗 https://doi.org/10.1101/2025.11.15.25340300
+
+---
+
+### Community informed approach for designing Seasonal Malaria Chemoprevention delivery in semi-nomadic populations in Turkana Central Sub-County, Kenya
+
+**Kostandova N., Menya D., Kafu C., Chepkwony T., et al., _Kimachas E._ (2024)**  
+*medRxiv*  
+**Status:** Preprint
+
+🔗 https://www.medrxiv.org/content/10.1101/2024.12.16.24319133v1
+
+---
+
+## Conference Abstracts
+
+**Malaria Vector Survival and Infectivity: A Longitudinal Cohort Study in Western Kenya**  
+PAMCA Conference — Rwanda
+
+**Tracking Malaria Cases Using TestSmart Mobile Application**  
+CPHIA Conference — Rwanda
+
+**Quality and Accuracy of Malaria Rapid Diagnostic Tests in the Private Retail Sector**  
+Kenya National Malaria Forum — Nairobi
+
+---
+
+ 

@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Kimachas  Emmah"
+  navbar:
+    left:
+      - href: about.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: picturespeak.qmd
+        text: PictureSpeak
+        
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: article
+
+editor: visual
+

@@ -1,0 +1,45 @@
+/* css styles */
+
+/* Publication cards */
+.publication {
+  border-left: 4px solid #2c7fb8;
+  padding: 12px 18px;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+  border-radius: 6px;
+}
+
+.publication h3 {
+  margin-top: 0;
+}
+
+.publication a {
+  font-weight: 500;
+  color: #2c7fb8;
+  text-decoration: none;
+}
+
+.publication a:hover {
+  text-decoration: underline;
+}
+
+/* PictureSpeak gallery */
+.columns img {
+  border-radius: 8px;
+  margin-bottom: 8px;
+  width: 100%;
+}
+
+.columns p {
+  text-align: center;
+  font-size: 0.9em;
+}
+
+.columns {
+  margin-bottom: 25px;
+}
+
+/* Page background */
+body {
+  background-color: #eef2f7
+}

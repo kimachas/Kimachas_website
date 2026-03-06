@@ -1,0 +1,41 @@
+---
+title: "Hello!"
+toc: false
+---
+
+::: {.column width="30%"}
+![](images/kimachas_profile.jpeg){width="200"}
+:::
+
+I am a **Senior Data Manager and public health data specialist** working on malaria research programs in Kenya. My work focuses on building reliable data systems, strengthening data quality, and supporting analyses that inform malaria control strategies and public health policy.
+
+I currently support malaria research and surveillance activities through the **AMPATH Malaria Program**, a collaboration between Moi University, Moi Teaching and Referral Hospital, Duke University, and the Kenyan Ministry of Health. In this role, I manage large research datasets from cohorts, surveys, and clinical trials, coordinate field data collection systems, and support researchers with data preparation, monitoring, and analysis. I am also a **Certified Carpentries Instructor**, and my enthusiasm for teaching R and helping others build practical data skills is immeasurable.
+
+Over the past **15+ years**, I have worked across several public health programs in Kenya, contributing to the design and management of health information systems, monitoring and evaluation frameworks, and reporting tools. I have supported research and implementation projects focused on malaria surveillance, vector infectivity studies, seasonal malaria chemoprevention, and private-sector malaria case management.
+
+My technical work involves cleaning and organizing complex health datasets, supporting statistical analysis, and developing tools that make research data easier to understand and use for informed decision-making.
+
+My journey in data management began as a **data entry clerk**. With a strong attention to detail, I quickly transitioned into working with the data quality and reporting teams. This experience opened opportunities to work closely with government health systems, where I supported pharmacy supply chain programs to ensure that **over 100 health facilities consistently maintained access to essential medicines and commodities**.
+
+I later transitioned fully into research data management. My early analytical work started in **Excel**, before moving to **Stata**, and eventually to **R**, which has become my primary tool for data analysis and reproducible research. My passion for R has also inspired me to share these skills with others. For the past five years, I have organized and taught **R training sessions for data managers and public health professionals**, using the Carpentries teaching model to make data analysis approachable and practical for beginners.
+
+------------------------------------------------------------------------
+
+## Research and Professional Interests
+
+My professional interests include:
+
+-   Research data management and analytics
+
+-   Health information systems and monitoring & evaluation
+
+```{=html}
+<!-- -->
+```
+-   Malaria surveillance systems\
+
+-   Seasonal Malaria Chemoprevention (SMC) implementation\
+
+-   Vector infectivity and malaria transmission studies\
+
+I particularly enjoy working at the intersection of **public health research and data systems**, where strong data practices can directly support disease control programs and improve health outcomes.
