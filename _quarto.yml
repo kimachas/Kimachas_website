@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Kimachas  Emmah"
+  title: "Kimachas Emmah"
   navbar:
     left:
       - href: about.qmd
@@ -11,7 +12,6 @@ website:
         text: Publications
       - href: picturespeak.qmd
         text: PictureSpeak
-        
 
 format:
   html:
@@ -21,4 +21,3 @@ format:
     page-layout: article
 
 editor: visual
-

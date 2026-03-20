@@ -34,7 +34,7 @@ My professional interests include:
 ```
 -   Malaria surveillance systems\
 
--   Seasonal Malaria Chemoprevention (SMC) implementation\
+-   Seasonal Malaria Chemoprevention (SMC) monitoring and Evaluation\
 
 -   Vector infectivity and malaria transmission studies\
 
