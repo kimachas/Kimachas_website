@@ -1,17 +1,16 @@
----
+------------------------------------------------------------------------
 
----
+------------------------------------------------------------------------
 
 ---
 title: "Home"
 ---
 
-::: columns
-::: {.column width="30%"}
-![](images/kimachas_duke2026.jpeg){width="180"}
-:::
 
-::: {.column width="70%"}
+
+![](images/kimachas_duke2026.jpeg){width="300"}
+
+
 ## Kimachas Emmah
 
 **Data Manager \| Malaria Research \| Public Health Data**
@@ -20,12 +19,3 @@ I work on malaria surveillance systems, monitoring and evaluation, and research 
 
 My work supports malaria research programs and health systems strengthening through data collection systems, analysis, and reporting.
 
-### Research Interests
-
--   Malaria surveillance systems\
--   Seasonal Malaria Chemoprevention (SMC)\
--   Public health data systems\
--   Monitoring and evaluation\
--   Research data management
-:::
-:::
