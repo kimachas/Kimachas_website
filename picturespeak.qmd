@@ -14,21 +14,31 @@ A glimpse into my work, collaborations, teaching moments, and field activities.
 
 
 
-![](images/Kimachas_r_2025.jpeg){width=100%}
+![](images/r_2025_instructors.jpeg){width=100%}
 
 *Meet the instructors: R training workshop for data managers and public health professionals (2025), held at KEMRI Kilifi Kenya .*
 
 
-::: {.column}
+
 ![](images/r_2022.jpeg){width=100%}
 
 *Cohort One of DiscovR – the maiden training during the COVID period. I organized, facilitated, and learned a great deal from this experience.*
 
-::: {.columns}
+
+
 
 ![](images/r_2022.jpeg){width=100%} 
 
 *Cohort 2 of DiscovR: A 4 day in interactive in person training .*
+
+
+
+
+![](images/r_2023.jpeg){width=100%} 
+
+*Cohort  of DiscovR2023: A 4 day in interactive in person training .*
+
+
 
 ![](images/r_2024.jpeg){width=100%}
 
@@ -46,7 +56,7 @@ A glimpse into my work, collaborations, teaching moments, and field activities.
 
 
 
-::: {.column}
+
 ![](images/Turkana_Facility.jpeg){width=100%}
 
 *Malaria surveillance activities during field data collection in Turkana.*
@@ -77,7 +87,7 @@ A glimpse into my work, collaborations, teaching moments, and field activities.
 
 
 
-![](images/team_training.jpg){width=100%}
+![](images/){width=100%}
 
 *Training field teams on digital data collection systems.*
 
